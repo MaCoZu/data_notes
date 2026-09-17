@@ -1,9 +1,9 @@
 ---
 publish: true
-title: Communicating Numbers - Group Activity
+title: Group Activity
 description: How to tackle cognitive biases and data literacy issues.
 created: 2026-03-31
-modified: 2026-09-17T20:38:30.114Z
+modified: 2026-09-17T21:12:44.854Z
 ---
 
 ### **Group 1: Selective Evidence & Accidental Meaning**

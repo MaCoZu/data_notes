@@ -1,8 +1,8 @@
 ---
 publish: true
-title: Design Principles for Data Visualization
+title: Design Principles for Data Viz
 created: 2026-09-17T13:50:09.258Z
-modified: 2026-09-17T20:32:55.539Z
+modified: 2026-09-17T21:12:59.414Z
 tags:
   - data
   - viz
