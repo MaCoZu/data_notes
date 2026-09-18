@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: MaCoZu.github.io/notes
+  baseUrl: macozu.github.io/notes/
   ignorePatterns:
     - private
     - templates

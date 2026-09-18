@@ -49,7 +49,7 @@ jobs:
           cp quartz/static/fonts/Metropolis-Regular.otf quartz/.quartz-cache/fonts/Metropolis-400
           cp quartz/static/fonts/Metropolis-Bold.otf quartz/.quartz-cache/fonts/Metropolis-700
       - name: Build Quartz
-        run: npx quartz build
+        run: npx quartz build -d docs
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

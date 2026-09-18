@@ -15,4 +15,3 @@ npx quartz plugin install --from-config
  
 # 5. Preview your site locally
 npx quartz build --serve
-</p>
