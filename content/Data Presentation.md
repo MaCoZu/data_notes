@@ -3,10 +3,10 @@ publish: true
 title: Presenting Data
 description: Techniques for making numbers visceral and memorable
 created: 2026-03-30
-modified: 2026-09-18T07:12:12.812Z
+modified: 2026-09-18T07:13:56.472Z
 ---
 
-### Preparation and Structure
+## Preparation and Structure
 
 Before presenting anything, you establish a solid foundation for your message:
 
@@ -21,7 +21,7 @@ Before presenting anything, you establish a solid foundation for your message:
 
 [17 Presentation Frameworks](https://benjaminball.com/blog/guide-to-powerful-presentation-frameworks/)
 
-### Open with Impact
+## Open with Impact
 
 You can break passive listening patterns and establishing immediate relevance with some simple techniques. For example:
 
