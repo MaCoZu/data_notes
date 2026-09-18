@@ -43,11 +43,11 @@ jobs:
         run: npm install
       - name: Install Quartz plugins
         run: npx quartz plugin install
-      - name: Seed OG image font cache with local Metropolis fonts
+      - name: Seed OG image font cache with local typography fonts
         run: |
           mkdir -p quartz/.quartz-cache/fonts
-          cp quartz/static/fonts/Metropolis-Regular.otf quartz/.quartz-cache/fonts/Metropolis-400
-          cp quartz/static/fonts/Metropolis-Bold.otf quartz/.quartz-cache/fonts/Metropolis-700
+          cp quartz/static/fonts/ArchivoBlack-Regular.ttf quartz/.quartz-cache/fonts/Archivo-400
+          cp quartz/static/fonts/ArchivoBlack-Regular.ttf quartz/.quartz-cache/fonts/Archivo-700
       - name: Build Quartz
         run: npx quartz build -d docs
       - name: Upload artifact

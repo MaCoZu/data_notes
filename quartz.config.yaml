@@ -16,9 +16,9 @@ configuration:
     fontOrigin: local
     cdnCaching: true
     typography:
-      header: "Metropolis"
-      body: "Metropolis"
-      code: "Metropolis"
+      header: "Archivo"
+      body: "Freight Sans Book"
+      code: "Freight Sans"
     colors:
       lightMode:
         light: "#faf8f8"
